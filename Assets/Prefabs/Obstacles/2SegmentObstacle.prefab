@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3184075855538772531}
   - component: {fileID: 3184075855538772530}
   m_Layer: 0
-  m_Name: 2SegmentPlatform
+  m_Name: 2SegmentObstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -427,7 +427,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6ba6de4d407dfe14a9568ddf0a681a38, type: 2}
+  - {fileID: 2100000, guid: c1233dd8db686984b88e1b73d189b10b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
