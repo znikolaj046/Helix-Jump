@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e40872c7d4023a4fae4ff7acaccc250, type: 3}
+  m_Name: TowerGenerationSettings
+  m_EditorClassIdentifier: 
+  _platformVariantsCount: 10
+  _offsetBetweenPlarforms: 1
+  _rotationRange: {fileID: 11400000, guid: cab091d0edcd4944493cb7a19063975d, type: 2}
+  _startPlatformPrefab: {fileID: 7861263009512466174, guid: 741e0773a33c2244abaf5a464f072791, type: 3}
+  _finishPlatformPrefab: {fileID: 7861263009512466174, guid: 7bdae68584362e24daa2da2246a5e468, type: 3}
+  _platformVariantPrefabs:
+  - {fileID: 7891734450062240562, guid: 05f1e66863bef324aaa942aef7980557, type: 3}
+  - {fileID: -8087585113773004637, guid: aa9dcd06fc278394bbd93f5fe5bd2b07, type: 3}
